@@ -1,4 +1,6 @@
 ### Hi there 👋
+##### 🌱 I’m currently learning Python
+
 
 <!--
 **x4m83/x4m83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
